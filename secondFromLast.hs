@@ -1,3 +1,4 @@
+secondFromLast :: [a] -> a
 secondFromLast list = if n < 2
                         then head list
                       else
